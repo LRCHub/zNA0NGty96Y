@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "幻奏は蒼き月となりて",
+  "base_artist": "ELFENSJóN",
+  "createdAt": "2025-12-18T12:26:56.670087Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幻奏は蒼き月となりて",
+      "artist": "ELFENSJóN",
+      "has_synced": true,
+      "path": "select/01_幻奏は蒼き月となりて_ELFENSJóN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幻奏は蒼き月となりて",
+      "artist": "ELFENSJóN",
+      "has_synced": false,
+      "path": "select/pl_01_幻奏は蒼き月となりて_ELFENSJóN.txt"
+    }
+  ]
+}
